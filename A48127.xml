@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter out of Holland, dated April 30, stilo novo wherein is shewn the desperate and distracted condition of those countries and people : with a prophecie inclosed, made by one of their own astrologers, who predicts many strange and wonderful things that will happen amongst the states of the United Provinces.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48127</idno>
+            <idno type="STC">Wing L1584B</idno>
+            <idno type="STC">ESTC R2929</idno>
+            <idno type="EEBO-CITATION">12890087</idno>
+            <idno type="OCLC">ocm 12890087</idno>
+            <idno type="VID">95089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95089)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter out of Holland, dated April 30, stilo novo wherein is shewn the desperate and distracted condition of those countries and people : with a prophecie inclosed, made by one of their own astrologers, who predicts many strange and wonderful things that will happen amongst the states of the United Provinces.</title>
+                  <author>One of their own astrologers.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for R. Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Prophecies.</term>
+               <term>Netherlands --  History --  1648-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95089:1"/>
+            <p>A LETTER OUT OF HOLLAND, Dated <hi>April</hi> 30. STILO NOVA, Wherein is ſhewn the Deſperate and Diſtracted Condition of thoſe COUNTRIES and PEOPLE.</p>
+            <p>WITH A PROPHECIE incloſed, Made by one of their own <hi>Astrologers;</hi> Who Predicts many Strange and Wonder<g ref="char:EOLhyphen"/>ful Things that will happen amongſt The STATES OF THE <hi>
+                  <g ref="char:V">Ʋ</g>NITED PROVINCES.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> for <hi>R. Robinſon,</hi> near <hi>Grays-Inn-Gate</hi> in <hi>Holborn,</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:95089:2"/>
+            <head>
+               <hi>A</hi> LETTER <hi>Out of</hi> HOLLAND, <hi>Dated</hi> April 30. Stilo Nova.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have endeavoured, according to my promiſe, and your deſire, to give an Account (in ſome kinde) of the pre<g ref="char:EOLhyphen"/>ſent Conſtitution of this Country and People, and what hapned ſince you left this place: You having ſo well inform'd your ſelf of things be<g ref="char:EOLhyphen"/>fore, as it will be in me but a vain repetition to ſpeak of what you know and underſtand better then by any new Relation that I can give. Here are great and heavy Taxes laid upon all conditions of men, eſpecially the poor peoples Induſtry and Labours, which hath caus'd many in a ſad and lamentable man<g ref="char:EOLhyphen"/>ner to Petition the Lords for a Relief and Eaſe from theſe Unſupportable Burthens; but can have no other Redreſs, then that they muſt endure all. I muſt confeſs the neceſſity of this War, and the preſent danger of this Country, require more then our Abilities can ſupply; notwi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hſtanding the vain Reports of our great Banks and rich Treaſures we endeavour to cheat the World with, only as a Political means to draw in Sea-men and Souldiers to fight for the Injuſtice of a War brought juſt<g ref="char:EOLhyphen"/>ly upon our ſelves by our Infidelity and Ingratitude.</p>
+            <p>All our ſeem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Encouragements, and large proffers of Pay, on purpoſe to animate our own people to take up Arms, will not do; but on the contrary, findes ſo great an unwillingneſs and coldneſs in the affections and hearts of our Subjects, as we already begin to deſpair of a good Succeſs, and fear a Revolution within our ſelves,
+<pb n="2" facs="tcp:95089:3"/>
+that may cauſe ſuch a Subverſion, as will either bring us to a Confeſſion of our Crimes, or under the Subjection of the King of <hi>Great Britain.</hi>
+            </p>
+            <p>It is not poſſible for us to hold out long, if this War continue<g ref="char:punc">▪</g> I am well aſſured, that the Conſequences of our Animoſities, and Inteſtine Troubles, muſt needs be dangerous to this Country; and that little hope we have left, ſolely depends upon the Good or Bad Event of the firſt Sea-Fight: If we are beaten, our own people will make way for a further Conqueſt, and by our Civil Diſ<g ref="char:EOLhyphen"/>ſentions open a Gap to let in a Forreign Enemy.</p>
+            <p>
+               <hi>Sir;</hi> I have ſent inclos'd a Prophecie of one of our own <hi>Aſtrologers,</hi> which adds not a little to our preſent Troubles: It hath not been publickly made known, for fear of the Authors prejudice. I have, as near as I could, rendred it Engliſh <hi>verbatim</hi> to the Original: The know<g ref="char:EOLhyphen"/>ledge you have in that Science, is better able to judge of the Order of the Heavens then I am, and ſo give a more Judicial Account of their Effects.</p>
+            <p>I deſire you would be pleas'd to aſſiſt me in the ſecuring and ſetling of my Eſtate with you: I am reſolv'd to put my ſelf under the protection of your Great and Gene<g ref="char:EOLhyphen"/>rous Prince, and to render my ſelf one of his Faithful and Obedient Subjects. I am not of this Opinion alone, but many more of my own Country-men; and would gladly, if they could get their Eſtates into <hi>England,</hi> live under your Government. Perhaps ſome may wonder why we are thus ſo unnatural to our Country: we muſt tell them, that the Injuſtice of our Great States-men doth not only ſet our Eſtates and Conſciences upon the Rack, but makes our Country ſo unnatural to us, that we are no longer able to diſpence with this Irregularity, but will rather ſubmit our ſelves to a Juſt, though For<g ref="char:EOLhyphen"/>reign Prince: And that we hope, by this means, to ex<g ref="char:EOLhyphen"/>piate for that part of our Ingratitude we have been ig<g ref="char:EOLhyphen"/>norantly guilty of, by living honeſtly under Him who hath offer'd us Protection.</p>
+         </div>
+         <div type="astrological_prophecy">
+            <pb n="3" facs="tcp:95089:3"/>
+            <head>The Prophecie.</head>
+            <p>THat the Planets and Fixed Stars have an Influence upon all Sublunary Bo<g ref="char:EOLhyphen"/>dies, is a general Approved Truth; and op<g ref="char:EOLhyphen"/>pos'd by none, but ſuch as are Ignorant of their various and Mysterious Motions: But that theſe Influences are Coercive, or have in them an Inevitable Fate, I dare not Aſſert; <hi>Nam Aſtra inclinant, ſed non Cogunt</hi> And though 'tis true, that the Almighty Creator doth many times ſignifie Future Events (by theſe His Creatures) upon Kingdoms and States; yet as true is <hi>Deus Aſtra Regit:</hi> For which cauſe I could have wiſh't, that theſe my Predictions might have com'd to a more Publick View; that ſo fore-ſeeing the Danger, we might have endeavour'd to pre<g ref="char:EOLhyphen"/>vent it. But I durſt not be too bold in its O<g ref="char:EOLhyphen"/>pen Publication, but only Communicate it to ſome Private Trusty Friends.</p>
+            <p>
+               <pb n="4" facs="tcp:95089:4"/>
+In the year 1654. <hi>January</hi> 16. hapned an Oppoſition of the two Superiour Planets, <hi>Saturn</hi> and <hi>Jupiter, Saturn</hi> being 24 De<g ref="char:EOLhyphen"/>grees and 43 Minutes in <hi>Leo,</hi> and Retro<g ref="char:EOLhyphen"/>grade; <hi>Jupiter</hi> being in <hi>Aquarius</hi> 24-43, where I begun my Obſervations.</p>
+            <p>My ſecond Obſervation was <hi>January</hi> 15. 1671/2, <hi>Saturn</hi> in 17 Degrees of <hi>Piſces,</hi> and <hi>Jupiter</hi> in 17 of <hi>Virgo</hi> Retrograde.</p>
+            <p>My third and laſt Obſervation was upon the <hi>Suns</hi> Ingreſs into <hi>Aries,</hi> the 9th of <hi>March</hi> following: The poſiture of the Heavens, at that inſtant, ſeeming to accompliſh what the other two malevolent Aſpects did threa<g ref="char:EOLhyphen"/>ten upon theſe places; <hi>Viz</hi> near the <hi>Maze,</hi> the <hi>Texel,</hi> and particularly the Province of <hi>Zealand;</hi> in the year 1672.</p>
+            <p>That near the <hi>Maze</hi> ſhall be great Effuſi<g ref="char:EOLhyphen"/>on of Blood, that a Forreign Fleet ſhall ap<g ref="char:EOLhyphen"/>pear, and not only ſtop the Trade of theſe parts, but threatens us with Great and Immi<g ref="char:EOLhyphen"/>nent Dangers. Some Great Perſons ſhall be in danger of looſing their Heads; the Common People ſhall riſe in a Tumultuous manner; and threaten the Ruine of ſome States men: It will be likely to fall heavy
+<pb n="5" facs="tcp:95089:4"/>
+upon one Ancient Perſon, and he will be much troubled to quell their Fury, though it be with the hazard of his own Life; not<g ref="char:EOLhyphen"/>withſtanding, the People will not be ſo ſa<g ref="char:EOLhyphen"/>tisfied, until they Drink his Blood, or he Ba<g ref="char:EOLhyphen"/>niſh himſelf for the expiation of thoſe Evils they imagine him to be Guilty of.</p>
+            <p>The <hi>Texel</hi> ſeems to be threatned with Fire, and Fights both by Sea and Land.</p>
+            <p>
+               <hi>Amſterdam</hi> will have a great ſhare in theſe Troubles, and appear to be moſt ſenſi<g ref="char:EOLhyphen"/>ble, when they ſhall finde a want of Provi<g ref="char:EOLhyphen"/>ſion will be the cauſe of a great Mortality, not only there, but the Country round a<g ref="char:EOLhyphen"/>bout. If they ſhould chance to eſcape this, it will fall with greater violence upon ſome other part of their Provinces, which will be of as great conſequence towards their Ru<g ref="char:EOLhyphen"/>ine, as if immediately on themſelves.</p>
+            <p>
+               <hi>Zealand</hi> muſt have its ſhare, and to be fear'd, moſt of all: Their Great Preparati<g ref="char:EOLhyphen"/>ons will be to little purpoſe; and if they hold out for a time, it will be well, ſo they make good Conditions. Inundations of Seas, and Eruption of Banks, will add much to their Miſerable Condition; and, e're it
+<pb n="6" facs="tcp:95089:5"/>
+be long, ſhall be Subject to a Prince, whoſe Government ſhall be more Juſt then their Own; and ſhall live (if they be truly obe<g ref="char:EOLhyphen"/>dient) with far greater ſatisfaction, though at firſt ſomewhat ſtrange; and fewer Taxes, then heretofore they have done.</p>
+            <p>Religion here will be moſt ſafe; and though ſhe lapſe for a while, yet will quickly recover of her Diſtemper, and Shine with as clear a Light of Truth, as ever.</p>
+            <p>That there ſhall be loſs of Towns by a Land-Army, eſpecially upon the Frontiers of <hi>Brabant:</hi> Great Endeavours for the rai<g ref="char:EOLhyphen"/>ſing of Men for Sea and Land; but will finde greater Difficulties then they expect. Fears and Jealouſies will poſſeſs the Hearts of the Generality; that many will not only leave their Habitations, but Fly their Coun<g ref="char:EOLhyphen"/>try for their own Safety.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95089:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
